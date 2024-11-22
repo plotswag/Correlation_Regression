@@ -22,7 +22,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-Name: Jeevanesh
+Name: Jeevanesh S
 Register Number: 212222243002
 ```
 
